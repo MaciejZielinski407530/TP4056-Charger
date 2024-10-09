@@ -6,3 +6,5 @@ Schemat układ opiera się na dostępych ładowarkach wykorzystujących układ T
 
 Projekt polegał na wymianie zasilania w czołowej lampce LED z bateryjnego na akumulatorowe.
 W tym celu należało zmodyfikować kształt PCB układu, aby dopasować go do lampki.
+
+Dodatkowo utworzono footprinty dla układów TP4056 oraz 8205A.
